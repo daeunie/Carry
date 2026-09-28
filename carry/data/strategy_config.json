@@ -1,0 +1,8 @@
+{
+  "window": 60,
+  "scheme": "risk",
+  "target_vol": 0.05,
+  "z_escape": -2.0,
+  "cov_window": 36,
+  "max_gross": 1.0
+}
